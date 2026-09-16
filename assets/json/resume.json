@@ -118,6 +118,13 @@
   ],
   "talks": [
     {
+      "title": "Invited Talk: Automation and Self-Driving Labs Workshop",
+      "date": "2026-09-01",
+      "awarder": "Advanced Light Source, Berkeley",
+      "url": "https://sites.google.com/lbl.gov/automationandself-driving/home-agenda/speakers",
+      "summary": "Dr.XAS: Toward an Agentic Ecosystem for Intelligent X-ray Absorption Spectroscopy"
+    },
+    {
       "title": "Conference: International Symposium on Compact Synchrotron X-ray",
       "date": "2021-07-01",
       "awarder": "",
