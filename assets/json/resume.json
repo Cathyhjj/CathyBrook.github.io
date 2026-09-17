@@ -59,49 +59,70 @@
   },
   "work": [
     {
-      "name": "Assistant beamline scientist – the Advanced Photon Source, Argonne National Laborotary",
-      "position": "Lemont, USA",
+      "name": "Advanced Photon Source, Argonne National Laboratory",
+      "position": "Assistant Physicist and Beamline Scientist",
+      "location": "Lemont, USA",
       "url": "",
       "startDate": "2023-10-01",
-      "endDate": "2025-03-01",
-      "summary": "Group leader: Dr. Shelly Kelly. Develop X-ray technologies on the most brilliant X-ray synchrotron source in the world. Maintain instrumentation/hardware/software related to X-ray spectroscopy techniques. Explore scientific usages of X-ray spectroscopy techniques in diverse fields such as chemistry, biology, medicines, physics. Support large facility users from acdemia and industry.",
-      "highlights": ["Relativity"]
+      "endDate": "",
+      "summary": "Develop and operate advanced X-ray spectroscopy and spectral-imaging capabilities at the Advanced Photon Source, maintaining instrumentation, hardware, and software while supporting academic and industrial users across chemistry, materials science, biology, medicine, and physics.",
+      "highlights": []
     },
     {
-      "name": "Postdoctoral Appointee – the Advanced Photon Source, Argonne National Laborotary",
-      "position": "Lemont, USA",
+      "name": "Advanced Photon Source, Argonne National Laboratory",
+      "position": "Postdoctoral Researcher",
+      "location": "Lemont, USA",
       "url": "",
-      "startDate": "2022-09-01",
+      "startDate": "2022-10-01",
       "endDate": "2023-09-01",
-      "summary": "Supervisor: Dr. George Sterbinsky; Group leader: Dr. Shelly Kelly, Research project entitled Resolving Capacity Fade in Li-Ion Batteries with Single-Shot Chemical Mapping, Implemented dispersive X-ray absorption spectroscopy (DXAS) for fast XANES-imaging on beamline ID25, APS and applied to Li-ion batteries. ",
-      "highlights": ["Relativity"]
+      "summary": "Implemented dispersive, single-acquisition X-ray absorption spectroscopy (XAS) at beamline 25-ID-C, reaching millisecond time resolution per XANES spectrum in the APS Upgrade regime.",
+      "highlights": [
+        "Applied the capability to fast XANES imaging of lithium-ion batteries for the project “Resolving Capacity Fade in Li-Ion Batteries with Single-Shot Chemical Mapping.”",
+        "Supervisor: Dr. George Sterbinsky; group leader: Dr. Shelly Kelly."
+      ]
     },
     {
-      "name": "Doctoral researcher – Department of physics, Technical ",
-      "position": "Munich, GERMANY",
+      "name": "Technical University of Munich",
+      "position": "PhD Researcher",
+      "location": "Munich, Germany",
       "url": "",
       "startDate": "2018-01-01",
-      "endDate": "2022-07-01",
-      "summary": "Supervisors: Dr. Martin Dierolf, Prof. Dr. Franz Pfeiffer， Research group: Chair of biomedical physics (E17)， Research topic: X-ray absorption spectroscopy at the Munich Compact Light Source.",
-      "highlights": ["Relativity"]
+      "endDate": "2022-08-01",
+      "summary": "Developed dispersive XAS capabilities for an inverse Compton source—the first demonstration of XAS with an ICS source worldwide and the fastest high-energy (>20 keV) laboratory XAS at the time—and successfully applied the method to chemical systems.",
+      "highlights": [
+        "Research topic: X-ray absorption spectroscopy at the Munich Compact Light Source.",
+        "Supervisors: Prof. Dr. Franz Pfeiffer and Dr. Martin Dierolf; Chair of Biomedical Physics (E17)."
+      ]
     },
     {
-      "name": "Short-term research scholar - Stanford Synchrotron Radiation Lightsource (SSRL)",
-      "position": "Menlo Park, USA",
+      "name": "SLAC National Accelerator Laboratory — Stanford Synchrotron Radiation Lightsource",
+      "position": "Research Scholar",
+      "location": "Menlo Park, USA",
       "url": "",
       "startDate": "2019-12-01",
       "endDate": "2020-03-01",
-      "summary": "Supervisor: Dr. Yijin Liu， Worked on BL 6-2c (transmission X-ray microscope), Hands-on experience on 3d XANES imaging and data analysis",
-      "highlights": ["Relativity"]
+      "summary": "Worked at beamline 6-2c, a transmission X-ray microscope, gaining hands-on experience in 3D XANES imaging and data analysis.",
+      "highlights": ["Supervisor: Dr. Yijin Liu."]
     },
     {
-      "name": "Master’s researcher - European Synchrotron Radiation Facility (ESRF)",
-      "position": "Grenoble, FRANCE",
+      "name": "ESRF — The European Synchrotron",
+      "position": "Master's Thesis Researcher",
+      "location": "Grenoble, France",
+      "url": "",
+      "startDate": "2017-03-01",
+      "endDate": "2017-08-01",
+      "summary": "Completed the thesis “The Electronic Structure of Mononuclear Manganese Compounds: Experimental and Theoretical Insights from X-Ray Absorption Spectroscopy and Resonant Inelastic X-Ray Scattering” at spectroscopy beamline ID26.",
+      "highlights": ["Thesis supervisors: Dr. Marius Retegan and Dr. Pieter Glatzel."]
+    },
+    {
+      "name": "ESRF — The European Synchrotron",
+      "position": "Trainee",
+      "location": "Grenoble, France",
       "url": "",
       "startDate": "2016-05-01",
-      "endDate": "2017-08-01",
-      "summary": "Supervisor: Dr. Marius Retegan; Group leader: Dr. Pieter Glatzel (beamline ID 26), Master’s thesis entitled: The Electronic Structure of Mononuclear Manganese Compounds: Experimental and Theoretical Insights from X-Ray Absorption Spectroscopy and Resonant Inelastic X-Ray Scattering, Internship: XANES, valence-to-core XES simulation of transitional metal containing complexes using ORCA package.",
-      "highlights": ["Relativity"]
+      "endDate": "2016-08-01",
+      "summary": "Completed an X-ray spectroscopy traineeship at beamline ID26, working on XANES and valence-to-core X-ray emission spectroscopy simulations of transition-metal complexes using ORCA.",
+      "highlights": []
     }
   ],
   "volunteer": [
